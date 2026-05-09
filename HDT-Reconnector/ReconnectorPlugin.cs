@@ -13,9 +13,9 @@ using Hearthstone_Deck_Tracker.Utility.Logging;
 using HDT_Reconnector.LogHandler;
 using HDT_Reconnector.Native;
 
-namespace HDT_Reconnector
+namespace MyPlugin
 {
-    public class ReconnectorPlugin : IPlugin
+    public class MyPlugin  : IPlugin
     {
         public string Name => "MyPlugin";
 
