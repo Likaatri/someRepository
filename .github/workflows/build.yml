@@ -28,6 +28,6 @@ jobs:
         with:
           name: MyPlugin
           path: |
-            HDT-Reconnector/bin/x86/Release/HDT-Reconnector.dll
-            HDT-Reconnector/bin/x86/Release/**/*.dll
-            HDT-Reconnector/bin/x86/Release/**/*.xml
+            HDT-Reconnector/bin/x86/Release/MyPlugin.dll
+            HDT-Reconnector/bin/Release/*.dll
+            HDT-Reconnector/bin/Release/**/*.dll
