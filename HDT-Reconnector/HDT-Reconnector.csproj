@@ -61,7 +61,7 @@
     </Reference>
   <Reference Include="Hearthstone Deck Tracker">
     <SpecificVersion>False</SpecificVersion>
-    <HintPath>Reference\Hearthstone Deck Tracker.exe</HintPath>
+    <HintPath>Reference\HearthstoneDeckTracker.exe</HintPath>
     <Private>False</Private>
   </Reference>
     <Reference Include="MahApps.Metro, Version=1.6.5.1, Culture=neutral, processorArchitecture=MSIL">
